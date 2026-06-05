@@ -1,13 +1,20 @@
 # Drebirth 👋
 
 
-**`Analista/Desenvolvedor de Sistemas`
+##`Analista/Desenvolvedor de Sistemas`
 
-Olá, me chamo Daniel Silva, sou formado em Analise e Desenvolvimento de Sistemas pela faculdade Estacio de Sa. Atualmente trabalho como Analista de Sistemas ERP(Protheus). 
-Sou facinado por tecnologia, mangás e light novels.
+Olá, me chamo Daniel Silva, sou formado em Analise e Desenvolvimento de Sistemas pela faculdade Estacio de Sa, Natual de João Pessoa - PB. Atualmente trabalho como Analista de Sistemas ERP(Protheus). Sou facinado por tecnologia, games, mangás e light novels, caso queira bater um papo profissional ou até mesmo jogar conversa fora, me segue nas minhas redes sociais.
 
+Likendin: [https://www.linkedin.com/in/daniel-silva-a65a90140/]
+Discord: drebirth
+Xbox: [https://www.xbox.com/pt-BR/play/user/DRebirth] ou simplesmente me procurar como DRebirth
+Steam: DRebirth
 
-Projeto Principal:
+---
+### Projetos Atuais
+
+Atualmente estou trabalhando num projeto pessoal, referente a uma aplicação web de controle financeiro pessoal, realizado o deploy pela azure.
+
 CFP(Controle Financeiro Pessoal):
 [https://cfp-a8fsbpgrezfddxcq.canadacentral-01.azurewebsites.net/Despesas/RelatorioDoMes]
 
