@@ -6,7 +6,8 @@
 Olá, me chamo Daniel Silva, sou formado em Analise e Desenvolvimento de Sistemas pela faculdade Estacio de Sa. Atualmente trabalho como Analista de Sistemas ERP(Protheus). 
 
 Projeto Principal:
-CFP(Controle Financeiro Pessoal) 🚀 [https://cfp-a8fsbpgrezfddxcq.canadacentral-01.azurewebsites.net/Despesas/RelatorioDoMes]
+CFP(Controle Financeiro Pessoal):
+[https://cfp-a8fsbpgrezfddxcq.canadacentral-01.azurewebsites.net/Despesas/RelatorioDoMes]
 
 ---
 ### 🤖 Linguagens e Tecnologias 
@@ -21,6 +22,13 @@ style="padding-right: 10px;"
 
 
 <img align="left"
+alt="Bootstrap"
+title="Bootstrap"
+width="30px"
+style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+          
+<img align="left"
 alt="CSS"
 title="CSS"
 width="30px"
@@ -33,4 +41,84 @@ title="Csharp"
 width="30px"
 style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+
+<img align="left"
+alt="dotnet"
+title="dotnet"
+width="30px"
+style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+
+  
+<img align="left"
+alt="SqlServer"
+title="SqlServer"
+width="30px"
+style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+
+<img align="left"
+alt="Postgres"
+title="Postgres"
+width="30px"
+style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+
+<img align="left"
+alt="SQLite"
+title="SQLite"
+width="30px"
+style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />
           
+
+<img align="left"
+alt="Azure"
+title="Azure"
+width="30px"
+style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
+
+
+<img align="left"
+alt="Git"
+title="Git"
+width="30px"
+style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+<img align="left"
+alt="Postman"
+title="Postman"
+width="30px"
+style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+          
+
+<img align="left"
+alt="Java"
+title="Java"
+width="30px"
+style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+
+<br/>
+<br/>
+
+###  📈  Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Drebirth&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drebirth&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+
+</p>
