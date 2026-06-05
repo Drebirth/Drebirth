@@ -1,7 +1,7 @@
 # Drebirth 👋
 
 
-##`Analista/Desenvolvedor de Sistemas`
+`Analista/Desenvolvedor de Sistemas`
 
 Olá, me chamo Daniel Silva, sou formado em Analise e Desenvolvimento de Sistemas pela faculdade Estacio de Sa, Natual de João Pessoa - PB. Atualmente trabalho como Analista de Sistemas ERP(Protheus). Sou facinado por tecnologia, games, mangás e light novels, caso queira bater um papo profissional ou até mesmo jogar conversa fora, me segue nas minhas redes sociais.
 
