@@ -6,9 +6,10 @@
 Olá, me chamo Daniel Silva, sou formado em Analise e Desenvolvimento de Sistemas pela faculdade Estacio de Sa, Natual de João Pessoa - PB. Atualmente trabalho como Analista de Sistemas ERP(Protheus). Sou facinado por tecnologia, games, mangás e light novels, caso queira bater um papo profissional ou até mesmo jogar conversa fora, me segue nas minhas redes sociais.
 
 Likendin: [https://www.linkedin.com/in/daniel-silva-a65a90140/]
+
 Discord: drebirth
+
 Xbox: [https://www.xbox.com/pt-BR/play/user/DRebirth] ou simplesmente me procurar como DRebirth
-Steam: DRebirth
 
 ---
 ### Projetos Atuais
